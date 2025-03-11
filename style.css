@@ -1,0 +1,63 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.col-12{
+    width: 100%;
+    height: 4rem;
+}
+
+.img-1{
+    height: 2rem;
+    margin-left: 2rem;
+}
+
+.img-2{
+    height: 2.5rem;
+    margin-left: 1rem;
+}
+
+.input-group{
+    width: 5rem;
+}
+
+.img-3{
+    height: 1rem;
+}
+
+.img-4{
+    height: 3rem;
+}
+
+.col-2 img{
+    height: 3rem;
+    margin: 0 0.2rem;
+}
+
+.contanier{
+    height: 900px;
+    width: 100%;
+}
+
+.col-11{
+    height: 100%;
+    width: 10rem;
+}
+
+.col-10{
+    display: block;
+}
+
+.ratio{
+    height: 45rem;
+}
+
+.col{
+    width: 20rem;
+    height: 4rem;
+}
+
+.container_folder{
+    margin-left: 1rem;
+}
